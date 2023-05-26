@@ -1,7 +1,44 @@
-# CreatorReadMeGen
-Read me generator for every person interested in creating a new read me when you are in a hurry and don't have the time 
-to do it from scratch CreatorReadMeGen is there to help.  Just by answering a few questions you can set up a basic 
-read me file along with setting up a table of contents while assisting with choosing from a list of licenses provided.
-Refer to the video to see a brief preview of how to use CreatorReadMeGen:
+# Project 1
 
-[Readmegen.webm](https://github.com/andythepee/CreatorReadMeGen/assets/131628979/2af6f5b0-c752-43ac-a4d1-56af96622614)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
+## Description
+
+1st project in node
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
+
+## Installation
+
+Install with care
+
+## Usage
+
+Use as you may
+
+## Contributing
+
+Contribute what you can
+
+## Tests
+
+Test 123
+
+## Questions
+
+For any questions or inquiries, please contact me:
+
+GitHub: [andythepee](https://github.com/andythepee)
+
+Email: andy.p.123@hotmail.com
+
+## License
+
+This application is covered under the MIT license.
